@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    username: root
+    password: bjh990523
+    url: jdbc:mysql://localhost:3306/Obito?serverTimezone=UTC&useSSL=false
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+mybatis:
+  mapper-locations: classpath:mybatis/*.xml
+  type-aliases-package: com.bjh.pojo

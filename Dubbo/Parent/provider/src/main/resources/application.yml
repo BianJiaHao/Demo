@@ -1,0 +1,11 @@
+dubbo:
+  application:
+    name: dubbo-provider
+  registry:
+    address: zookeeper://39.97.215.166:2181
+
+#加载其他配置文件，加载其他的application-*.yml
+#多个名称之间使用逗号分割
+spring:
+  profiles:
+    active: mybatis
