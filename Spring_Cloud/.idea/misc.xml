@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Eureka-Server/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka-Provider/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka-Consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/User-Provider/pom.xml" />
+        <option value="$PROJECT_DIR$/User-Consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/User-Api/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
