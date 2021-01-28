@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RocketMQ-01/RocketMQ-01.iml" filepath="$PROJECT_DIR$/RocketMQ-01/RocketMQ-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RocketMQ-02/RocketMQ-02.iml" filepath="$PROJECT_DIR$/RocketMQ-02/RocketMQ-02.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/acl/rocketmq-acl.iml" filepath="$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/acl/rocketmq-acl.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/rocketmq-all.iml" filepath="$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/rocketmq-all.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/broker/rocketmq-broker.iml" filepath="$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/broker/rocketmq-broker.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/client/rocketmq-client.iml" filepath="$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/client/rocketmq-client.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/common/rocketmq-common.iml" filepath="$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/common/rocketmq-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-consumer/rocketmq-consumer.iml" filepath="$PROJECT_DIR$/rocketmq-consumer/rocketmq-consumer.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/distribution/rocketmq-distribution.iml" filepath="$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/distribution/rocketmq-distribution.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/example/rocketmq-example.iml" filepath="$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/example/rocketmq-example.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/filter/rocketmq-filter.iml" filepath="$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/filter/rocketmq-filter.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/logappender/rocketmq-logappender.iml" filepath="$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/logappender/rocketmq-logappender.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/logging/rocketmq-logging.iml" filepath="$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/logging/rocketmq-logging.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/namesrv/rocketmq-namesrv.iml" filepath="$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/namesrv/rocketmq-namesrv.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/openmessaging/rocketmq-openmessaging.iml" filepath="$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/openmessaging/rocketmq-openmessaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-producer/rocketmq-producer.iml" filepath="$PROJECT_DIR$/rocketmq-producer/rocketmq-producer.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/remoting/rocketmq-remoting.iml" filepath="$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/remoting/rocketmq-remoting.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/srvutil/rocketmq-srvutil.iml" filepath="$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/srvutil/rocketmq-srvutil.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/store/rocketmq-store.iml" filepath="$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/store/rocketmq-store.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/test/rocketmq-test.iml" filepath="$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/test/rocketmq-test.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/tools/rocketmq-tools.iml" filepath="$USER_HOME$/Downloads/rocketmq-all-4.6.1-source-release/tools/rocketmq-tools.iml" />
+    </modules>
+  </component>
+</project>
